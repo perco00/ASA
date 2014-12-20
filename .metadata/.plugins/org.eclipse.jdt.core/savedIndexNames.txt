@@ -1,3 +1,2 @@
-INDEX VERSION 1.127+D:\ASA\ASA\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.127+D:\ASA\.metadata\.plugins\org.eclipse.jdt.core
 1284074322.index
-2144097899.index
